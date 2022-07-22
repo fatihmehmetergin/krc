@@ -1,0 +1,267 @@
+    .mask {
+    position: absolute;
+    width: 1440px;
+    height: 1405px;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    }
+    
+    .title-h1 {
+    position: absolute;
+    line-height: 122%;
+    left: 19.03%;
+    right: 19.03%;
+    top: 13.36%;
+    bottom: 84.02%;
+    font-size: 78px;
+    /* or 95px */
+    }
+
+    .title-h2 {
+    position: absolute;
+    line-height: 122%;
+    width: 677px;
+    height: 98px;
+    left: 382px;
+    top: 1104px;
+    font-size: 40px;
+    /* or 49px */
+    }
+    
+    .krc-review-product-button {
+    position: absolute;
+    width: 382px;
+    height: 84px;
+    left: 529px;
+    top: 1244px;
+    filter: drop-shadow(0px 4px 5px rgba(0, 0, 0, 0.3));
+    }
+    
+    .krc-design-step-title {
+    width: 485px;
+    height: 56px;
+    left: 487px;
+    top: 1445px;
+    font-size: 46px;
+    line-height: 122%;
+    /* or 56px */
+    /* letter-spacing: 0.03em; */
+    }
+    
+    .krc-step1 {
+    width: 542px;
+    height: 126px;
+    left: 449px;
+    top: 2076px;
+    font-size: 42px;
+    line-height: 49px;
+    text-align: center;
+    }
+    
+    .krc-step2 {
+    width: 743px;
+    height: 217px;
+    left: 349px;
+    top: 2823px;
+    font-size: 44px;
+    line-height: 52px;
+    text-align: center;
+    
+    }
+    .krc-product1-desc {
+    width: 556px;
+    height: 141px;
+    left: 85px;
+    top: 3919px;
+    }
+
+    .krc-product2-desc {
+    width: 631px;
+    height: 143px;
+    left: 48px;
+    top: 5005px;
+    }
+    
+    .krc-product3-desc {
+    width: 618px;
+    height: 142px;
+    left: 54px;
+    top: 6086px;
+    }
+
+    .krc-button-area {
+    position: absolute;
+    top: 175px;
+    left: 11.53%;
+    }
+
+    .krc-product-title {
+    font-family: 'Nexa Bold';
+    font-style: normal;
+    font-weight: 700;
+    line-height: 122%;
+    text-align: center;
+    letter-spacing: -0.04em;
+    color: #000000;
+    }
+
+    .krc-step-design {
+    position: absolute;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    /* or 56px */
+    color: #000000;
+    }
+
+    .krc-content {
+    position: absolute;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #000000;
+    }
+
+    body {
+    position: relative;
+    width: 1440px;
+    height: 6894px;
+    background: #FFFFFF;
+    margin: 0px;
+    }
+
+    img.Group5648 {
+    position: absolute;
+    width: 495px;
+    height: 607.2px;
+    left: 84px;
+    top: 5406px;
+    }
+
+    img.Group5699 {
+    position: absolute;
+    width: 163px;
+    height: 44px;
+    left: 282px;
+    top: 5170px;
+    }
+
+    img.Group5698 {
+    position: absolute;
+    width: 163px;
+    height: 44px;
+    left: 282px;
+    top: 6250px;
+    }
+
+    img.Group5658 {
+    width: 278.1px;
+    height: 87.93px;
+    }
+    
+    img.Group5660 {
+    width: 276.03px;
+    height: 87.93px;
+    }
+    
+    img.Group5657 {
+    width: 274.01px;
+    height: 87.93px;
+    }
+
+    img.Group5655 {
+    position: absolute;
+    width: 163px;
+    height: 44px;
+    left: 282px;
+    top: 4082px;
+    }
+    
+    img.Group5659 {
+    width: 276.05px;
+    height: 87.93px;
+    }
+    
+    img.Group5664 {
+    position: absolute;
+    width: 630px;
+    height: 574.92px;
+    left: 405px;
+    top: 1501px;
+    }
+    
+    img.Group5665 {
+    position: absolute;
+    width: 1186px;
+    height: 496.99px;
+    left: 127px;
+    top: 2293px;
+    }
+    
+    img.Group5639 {
+    position: absolute;
+    width: 510px;
+    height: 104.08px;
+    left: 846px;
+    top: 3202px;
+    }
+    
+    img.Group5662 {
+    position: absolute;
+    width: 495px;
+    height: 603.09px;
+    left: 83px;
+    top: 3210px;
+    }
+
+    img.Group5647 {
+    position: absolute;
+    width: 495px;
+    height: 607.2px;
+    left: 84px;
+    top: 4308px;
+    }
+    
+    img.Group26 {
+    position: absolute;
+    width: 495px;
+    height: 607.2px;
+    left: 861px;
+    top: 3491px;
+    }
+    
+    img.Group5640 {
+    position: absolute;
+    width: 510px;
+    height: 104.08px;
+    left: 846px;
+    top: 4300px;
+    }
+    
+    img.Group5649 {
+    position: absolute;
+    width: 495px;
+    height: 607.2px;
+    left: 861px;
+    top: 4589px;
+    }
+    
+    img.Group5641 {
+    position: absolute;
+    width: 510px;
+    height: 104.08px;
+    left: 846px;
+    top: 5398px;
+    }
+
+    img.Group5661 {
+    position: absolute;
+    width: 495px;
+    height: 607.2px;
+    left: 861px;
+    top: 5687px;
+    }
