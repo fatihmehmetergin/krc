@@ -6,3 +6,5 @@
 
 ![image](https://user-images.githubusercontent.com/38405979/180349377-dad5bc14-a735-4962-bdaa-38958260524f.png)
 
+desktop ve mobile görünüm responsive şekilde çalışmaktadır.
+
