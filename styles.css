@@ -67,8 +67,12 @@
     font-size: 44px;
     line-height: 52px;
     text-align: center;
-    
     }
+
+   .krc-bold {
+    font-weight:700;
+    }
+
     .krc-product1-desc {
     width: 556px;
     height: 141px;
